@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: c89be297-2405-dca0-efd8-b374828b3c9c
 resourcetype: Document
 title: watershed.pdf
 uid: 4b67eb49-72fd-74c2-94ff-8495e0d7f204

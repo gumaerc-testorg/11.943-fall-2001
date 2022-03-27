@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Presentations
 parent_type: CourseSection
+parent_uid: 854cd7b1-c4d2-05d7-c246-b290c151c27f
 resourcetype: Document
 title: smallfina.pdf
 uid: b10559b7-3c7a-be90-73af-6918d182f22a

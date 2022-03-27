@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Presentations
 parent_type: CourseSection
+parent_uid: 854cd7b1-c4d2-05d7-c246-b290c151c27f
 resourcetype: Document
 title: midassign.pdf
 uid: 38d17046-b75f-a3f2-0e51-8edc64246a7d

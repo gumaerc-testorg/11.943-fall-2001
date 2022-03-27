@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: c89be297-2405-dca0-efd8-b374828b3c9c
 resourcetype: Document
 title: landuseur.pdf
 uid: 36fe8000-e68d-9370-7b49-902690f64a46

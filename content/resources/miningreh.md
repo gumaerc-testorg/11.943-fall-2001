@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: c89be297-2405-dca0-efd8-b374828b3c9c
 resourcetype: Document
 title: miningreh.pdf
 uid: d940b585-6831-fc33-3ac8-4223c46e625a

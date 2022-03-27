@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 08a642c6-918c-6263-cf20-b76dcdfbb963
 resourcetype: Document
 title: principle.pdf
 uid: 5f5b1119-0ece-e246-22af-0492de4794de

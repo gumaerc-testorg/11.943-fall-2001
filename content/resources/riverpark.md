@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: c89be297-2405-dca0-efd8-b374828b3c9c
 resourcetype: Document
 title: riverpark.pdf
 uid: c3c98b26-4fc4-a8c2-43b1-455424b42133

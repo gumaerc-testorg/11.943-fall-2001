@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Presentations
 parent_type: CourseSection
+parent_uid: 854cd7b1-c4d2-05d7-c246-b290c151c27f
 resourcetype: Document
 title: midgroup2.pdf
 uid: d40477b9-96ef-b0f4-a004-8f9d35126732

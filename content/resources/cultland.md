@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 08a642c6-918c-6263-cf20-b76dcdfbb963
 resourcetype: Document
 title: cultland.pdf
 uid: ae4efbd9-7d9c-0f40-aa96-768aa4e9d6e2

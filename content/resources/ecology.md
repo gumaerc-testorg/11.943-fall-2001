@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: CourseSection
+parent_uid: c89be297-2405-dca0-efd8-b374828b3c9c
 resourcetype: Document
 title: ecology.pdf
 uid: 0c25ff9e-4034-007d-0c70-017457498979
