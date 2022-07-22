@@ -5,6 +5,7 @@ file: /courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: principle.pdf
 uid: 5f5b1119-0ece-e246-22af-0492de4794de
 ---
 Principles file.
-
