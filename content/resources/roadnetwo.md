@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on road networks.
-file: /courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/8884480e8cacd83f4b73ff7b610cf7b2_roadnetwo.pdf
+file: /ol-ocw-studio-app/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/8884480e8cacd83f4b73ff7b610cf7b2_roadnetwo.pdf
 file_size: 112256
 file_type: application/pdf
 learning_resource_types: []
