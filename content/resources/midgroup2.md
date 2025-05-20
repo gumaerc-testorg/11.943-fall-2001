@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Midterm proposal: group two'
-file: /ol-ocw-studio-app/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/d40477b996efb0f4a0048f9d35126732_midgroup2.pdf
+file: /courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/d40477b996efb0f4a0048f9d35126732_midgroup2.pdf
 file_size: 585335
 file_type: application/pdf
 learning_resource_types: []
