@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Principles file.
-file: /ol-ocw-studio-app/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/5f5b11190ecee24622af0492de4794de_principle.pdf
+file: /courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/5f5b11190ecee24622af0492de4794de_principle.pdf
 file_size: 123612
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Urban Design Planning Model.
-file: /ol-ocw-studio-app/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/f6fe4c04f78c990beb1f3dc651aaede8_planmodel.pdf
+file: /courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/f6fe4c04f78c990beb1f3dc651aaede8_planmodel.pdf
 file_size: 207161
 file_type: application/pdf
 learning_resource_types:

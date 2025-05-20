@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/0c25ff9e4034007d0c70017457498979_ecology.pdf
+file: /courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/0c25ff9e4034007d0c70017457498979_ecology.pdf
 file_size: 35183
 file_type: application/pdf
 learning_resource_types: []
