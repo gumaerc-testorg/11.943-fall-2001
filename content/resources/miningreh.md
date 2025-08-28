@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on mimingrehab.
-file: /courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/d940b5856831fc333ac84223c46e625a_miningreh.pdf
+file: /ol-ocw-studio-app/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/d940b5856831fc333ac84223c46e625a_miningreh.pdf
 file_size: 62340
 file_type: application/pdf
 learning_resource_types: []
